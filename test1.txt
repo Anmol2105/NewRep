@@ -1,3 +1,5 @@
 
 This is a change for feature_1 branch
 This is the second change in feature branch
+
+This is a change for feature_2 branch
